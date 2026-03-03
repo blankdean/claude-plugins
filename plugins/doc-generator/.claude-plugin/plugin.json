@@ -1,0 +1,8 @@
+{
+  "name": "doc-generator",
+  "description": "Generates JSDoc, docstrings, or type annotations for undocumented code",
+  "author": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  }
+}

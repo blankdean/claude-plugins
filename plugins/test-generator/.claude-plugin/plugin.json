@@ -1,0 +1,8 @@
+{
+  "name": "test-generator",
+  "description": "Generates unit tests for functions and classes with edge case coverage and mocking support",
+  "author": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  }
+}

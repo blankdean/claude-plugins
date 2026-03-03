@@ -1,0 +1,8 @@
+{
+  "name": "code-reviewer",
+  "description": "Performs structured code reviews with severity ratings, OWASP checks, and inline suggestions",
+  "author": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  }
+}

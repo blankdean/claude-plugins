@@ -1,0 +1,8 @@
+{
+  "name": "git-smart-commit",
+  "description": "Analyzes staged changes and generates conventional commit messages with scope detection",
+  "author": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dep-auditor",
+  "description": "Scans project dependencies for security vulnerabilities, outdated packages, and unused imports",
+  "author": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  }
+}
