@@ -17,7 +17,7 @@ A curated collection of Claude Code plugins for productivity, development, and a
 Add this marketplace:
 
 ```bash
-/plugin marketplace add https://github.com/blankdean/claude-plugins
+/plugin marketplace add blankdean/claude-plugins
 ```
 
 Then install individual plugins:

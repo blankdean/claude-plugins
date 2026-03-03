@@ -1,0 +1,66 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "blankdean-claude-plugins",
+  "description": "A curated collection of Claude Code plugins for productivity, development, and automation",
+  "owner": {
+    "name": "blankdean",
+    "email": "blankdean@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "git-smart-commit",
+      "description": "Analyzes staged changes and generates conventional commit messages with scope detection",
+      "version": "1.0.0",
+      "author": {
+        "name": "blankdean",
+        "email": "blankdean@users.noreply.github.com"
+      },
+      "source": "./plugins/git-smart-commit",
+      "category": "git"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Performs structured code reviews with severity ratings, OWASP checks, and inline suggestions",
+      "version": "1.0.0",
+      "author": {
+        "name": "blankdean",
+        "email": "blankdean@users.noreply.github.com"
+      },
+      "source": "./plugins/code-reviewer",
+      "category": "quality"
+    },
+    {
+      "name": "test-generator",
+      "description": "Generates unit tests for functions and classes with edge case coverage and mocking support",
+      "version": "1.0.0",
+      "author": {
+        "name": "blankdean",
+        "email": "blankdean@users.noreply.github.com"
+      },
+      "source": "./plugins/test-generator",
+      "category": "testing"
+    },
+    {
+      "name": "doc-generator",
+      "description": "Generates JSDoc, docstrings, or type annotations for undocumented code",
+      "version": "1.0.0",
+      "author": {
+        "name": "blankdean",
+        "email": "blankdean@users.noreply.github.com"
+      },
+      "source": "./plugins/doc-generator",
+      "category": "documentation"
+    },
+    {
+      "name": "dep-auditor",
+      "description": "Scans project dependencies for security vulnerabilities, outdated packages, and unused imports",
+      "version": "1.0.0",
+      "author": {
+        "name": "blankdean",
+        "email": "blankdean@users.noreply.github.com"
+      },
+      "source": "./plugins/dep-auditor",
+      "category": "security"
+    }
+  ]
+}
