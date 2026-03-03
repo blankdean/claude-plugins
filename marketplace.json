@@ -1,17 +1,17 @@
 {
-  "$schema": "https://raw.githubusercontent.com/deanblank/claude-plugins/main/schema/marketplace.schema.json",
+  "$schema": "https://raw.githubusercontent.com/blankdean/claude-plugins/main/schema/marketplace.schema.json",
   "name": "Dean's Plugin Marketplace",
   "version": "1.0.0",
   "description": "A curated collection of Claude Code plugins for productivity, development, and automation.",
-  "author": "deanblank",
-  "homepage": "https://github.com/deanblank/claude-plugins",
+  "author": "blankdean",
+  "homepage": "https://github.com/blankdean/claude-plugins",
   "plugins": [
     {
       "id": "git-smart-commit",
       "name": "Git Smart Commit",
       "version": "1.2.0",
       "description": "Analyzes staged changes and generates conventional commit messages with scope detection.",
-      "author": "deanblank",
+      "author": "blankdean",
       "category": "git",
       "tags": ["git", "commits", "conventional-commits"],
       "install": {
@@ -24,7 +24,7 @@
       "name": "Code Reviewer",
       "version": "0.9.0",
       "description": "Performs structured code reviews with severity ratings, OWASP checks, and inline suggestions.",
-      "author": "deanblank",
+      "author": "blankdean",
       "category": "quality",
       "tags": ["review", "security", "quality"],
       "install": {
@@ -37,7 +37,7 @@
       "name": "Test Generator",
       "version": "1.0.0",
       "description": "Generates unit tests for functions and classes with edge case coverage and mocking support.",
-      "author": "deanblank",
+      "author": "blankdean",
       "category": "testing",
       "tags": ["testing", "unit-tests", "coverage"],
       "install": {
@@ -50,7 +50,7 @@
       "name": "Doc Generator",
       "version": "0.5.0",
       "description": "Generates JSDoc, docstrings, or type annotations for undocumented code.",
-      "author": "deanblank",
+      "author": "blankdean",
       "category": "documentation",
       "tags": ["docs", "jsdoc", "docstrings", "types"],
       "install": {
@@ -63,7 +63,7 @@
       "name": "Dependency Auditor",
       "version": "1.1.0",
       "description": "Scans package.json/requirements.txt for outdated, vulnerable, or unused dependencies.",
-      "author": "deanblank",
+      "author": "blankdean",
       "category": "security",
       "tags": ["dependencies", "security", "audit", "npm", "pip"],
       "install": {
